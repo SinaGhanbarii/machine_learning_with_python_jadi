@@ -1,0 +1,4 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+90,2,True,True,True,Darabad,5300000000.0,176666.67
+87,2,True,True,True,Darabad,5850000000.0,195000.0
+112,2,True,True,True,Darabad,7000000000.0,233333.33

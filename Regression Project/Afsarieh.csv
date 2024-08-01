@@ -1,0 +1,7 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+70,2,True,False,True,Afsarieh,1650000000.0,55000.0
+120,1,False,False,False,Afsarieh,3150000000.0,105000.0
+105,2,True,True,True,Afsarieh,2400000000.0,80000.0
+65,2,True,True,False,Afsarieh,1330000000.0,44333.33
+65,2,True,True,True,Afsarieh,1550000000.0,51666.67
+66,2,False,True,False,Afsarieh,1120000000.0,37333.33

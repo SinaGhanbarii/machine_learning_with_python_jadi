@@ -1,0 +1,11 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+88,2,True,False,True,Gholhak,4700000000.0,156666.67
+120,2,True,True,True,Gholhak,8400000000.0,280000.0
+100,2,True,True,True,Gholhak,6200000000.0,206666.67
+80,2,True,True,True,Gholhak,4900000000.0,163333.33
+145,3,True,True,True,Gholhak,7850000000.0,261666.67
+77,2,True,True,True,Gholhak,6200000000.0,206666.67
+110,2,True,True,True,Gholhak,8800000000.0,293333.33
+110,2,True,True,True,Gholhak,7000000000.0,233333.33
+106,2,True,True,True,Gholhak,6400000000.0,213333.33
+114,2,True,True,True,Gholhak,7550000000.0,251666.67

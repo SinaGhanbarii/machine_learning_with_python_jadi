@@ -1,0 +1,10 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+70,2,True,True,False,Dehkade Olampic,2000000000.0,66666.67
+116,2,True,True,True,Dehkade Olampic,4350000000.0,145000.0
+140,3,True,True,True,Dehkade Olampic,4400000000.0,146666.67
+105,2,True,True,True,Dehkade Olampic,1035000000.0,34500.0
+121,2,True,True,True,Dehkade Olampic,4840000000.0,161333.33
+70,1,True,True,False,Dehkade Olampic,2000000000.0,66666.67
+135,3,True,True,True,Dehkade Olampic,4200000000.0,140000.0
+105,2,True,True,True,Dehkade Olampic,4100000000.0,136666.67
+200,5,False,False,False,Dehkade Olampic,12000000000.0,400000.0

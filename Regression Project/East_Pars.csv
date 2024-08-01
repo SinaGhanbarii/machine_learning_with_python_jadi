@@ -1,0 +1,9 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+81,2,True,True,True,East Pars,2891700000.0,96390.0
+83,2,True,True,True,East Pars,2575000000.0,85833.33
+115,2,True,True,True,East Pars,5400000000.0,180000.0
+86,2,False,True,False,East Pars,1204000000.0,40133.33
+60,2,False,True,True,East Pars,1380000000.0,46000.0
+56,2,True,True,True,East Pars,1550000000.0,51666.67
+55,1,True,True,True,East Pars,1450000000.0,48333.33
+40,1,True,True,True,East Pars,1145000000.0,38166.67

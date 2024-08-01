@@ -1,0 +1,5 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+96,2,True,True,True,Zargandeh,7872000000.0,262400.0
+185,3,True,True,True,Zargandeh,9000000000.0,300000.0
+106,2,True,True,True,Zargandeh,5600000000.0,186666.67
+98,2,True,True,True,Zargandeh,5800000000.0,193333.33

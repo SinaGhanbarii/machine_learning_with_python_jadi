@@ -1,0 +1,5 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+148,2,True,False,True,Koohsar,4500000000.0,150000.0
+105,2,True,True,True,Koohsar,4000000000.0,133333.33
+80,2,True,True,True,Koohsar,2400000000.0,80000.0
+87,2,True,True,True,Koohsar,2350000000.0,78333.33

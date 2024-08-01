@@ -1,0 +1,12 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+101,2,True,True,True,Railway,3300000000.0,110000.0
+88,2,True,True,True,Railway,2860000000.0,95333.33
+144,2,True,True,True,Railway,6600000000.0,220000.0
+102,2,True,True,False,Railway,4520000000.0,150666.67
+105,2,True,True,True,Railway,5000000000.0,166666.67
+90,2,True,True,True,Railway,1315000000.0,43833.33
+88,2,True,True,True,Railway,2860000000.0,95333.33
+130,3,True,True,True,Railway,5850000000.0,195000.0
+131,3,True,True,True,Railway,5850000000.0,195000.0
+60,1,True,True,True,Railway,870000000.0,29000.0
+120,2,True,True,True,Railway,1536000000.0,51200.0

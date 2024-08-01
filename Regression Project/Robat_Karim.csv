@@ -1,0 +1,3 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+55,1,True,True,False,Robat Karim,305000000.0,10166.67
+64,1,True,True,True,Robat Karim,350000000.0,11666.67

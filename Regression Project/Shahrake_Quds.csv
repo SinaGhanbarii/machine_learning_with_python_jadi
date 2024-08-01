@@ -1,0 +1,6 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+141,3,True,True,True,Shahrake Quds,2115000000.0,70500.0
+88,2,False,True,True,Shahrake Quds,750000000.0,25000.0
+93,2,True,True,False,Shahrake Quds,650000000.0,21666.67
+66,1,True,True,False,Shahrake Quds,520000000.0,17333.33
+75,2,False,True,False,Shahrake Quds,500000000.0,16666.67

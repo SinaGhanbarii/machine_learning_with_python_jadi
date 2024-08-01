@@ -1,0 +1,6 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+100,2,True,True,False,Qarchak,1200000000.0,40000.0
+160,1,False,False,False,Qarchak,3600000.0,120.0
+50,1,False,False,True,Qarchak,380000000.0,12666.67
+95,2,True,True,True,Qarchak,1450000000.0,48333.33
+66,1,False,True,False,Qarchak,600000000.0,20000.0

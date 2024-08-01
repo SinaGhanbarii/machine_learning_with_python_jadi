@@ -1,0 +1,10 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+88,2,True,True,True,Gisha,4750000000.0,158333.33
+51,1,True,True,True,Gisha,2980000000.0,99333.33
+140,3,True,True,True,Gisha,11200000000.0,373333.33
+139,3,True,True,True,Gisha,7300000000.0,243333.33
+108,2,True,True,True,Gisha,5180000000.0,172666.67
+105,2,True,True,True,Gisha,7350000000.0,245000.0
+78,2,False,True,True,Gisha,1794000000.0,59800.0
+93,2,False,True,True,Gisha,3600000000.0,120000.0
+96,2,True,True,True,Gisha,5500000000.0,183333.33

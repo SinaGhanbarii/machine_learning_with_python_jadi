@@ -1,0 +1,5 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+66,1,False,False,False,Shahedshahr,297000000.0,9900.0
+100,2,False,True,True,Shahedshahr,700000000.0,23333.33
+48,1,False,True,False,Shahedshahr,210000000.0,7000.0
+86,2,True,True,True,Shahedshahr,421000000.0,14033.33

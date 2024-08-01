@@ -1,0 +1,4 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+90,2,True,True,True,Shahrakeh Naft,5500000000.0,183333.33
+130,3,True,True,True,Shahrakeh Naft,7500000000.0,250000.0
+85,2,True,True,True,Shahrakeh Naft,4600000000.0,153333.33

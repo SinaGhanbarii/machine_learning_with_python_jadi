@@ -1,0 +1,6 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+100,2,True,True,True,Hakimiyeh,3100000000.0,103333.33
+105,2,True,True,True,Hakimiyeh,3570000000.0,119000.0
+127,3,True,True,True,Hakimiyeh,4480000000.0,149333.33
+70,1,True,True,True,Hakimiyeh,2310000000.0,77000.0
+67,2,True,True,True,Hakimiyeh,2170000000.0,72333.33

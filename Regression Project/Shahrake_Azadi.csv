@@ -1,0 +1,3 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+60,2,False,True,False,Shahrake Azadi,1680000000.0,56000.0
+90,2,True,True,False,Shahrake Azadi,1000000000.0,33333.33

@@ -1,0 +1,3 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+145,3,True,True,True,Haft Tir,4700000000.0,156666.67
+96,2,False,False,False,Haft Tir,2850000000.0,95000.0

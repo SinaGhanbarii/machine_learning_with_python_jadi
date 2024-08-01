@@ -1,0 +1,15 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+69,2,True,True,True,Mirdamad,3795000000.0,126500.0
+149,3,True,True,False,Mirdamad,9238000000.0,307933.33
+95,2,True,True,True,Mirdamad,5500000000.0,183333.33
+90,2,True,True,True,Mirdamad,6000000000.0,200000.0
+50,1,True,True,True,Mirdamad,3250000000.0,108333.33
+140,3,True,True,True,Mirdamad,8000000000.0,266666.67
+125,3,True,False,False,Mirdamad,6500000000.0,216666.67
+135,2,True,True,True,Mirdamad,9970000000.0,332333.33
+83,2,True,True,True,Mirdamad,4900000000.0,163333.33
+101,2,True,True,True,Mirdamad,7300000000.0,243333.33
+105,2,True,True,True,Mirdamad,7770000000.0,259000.0
+170,3,True,True,True,Mirdamad,11800000000.0,393333.33
+150,2,True,True,True,Mirdamad,8200000000.0,273333.33
+107,2,True,True,True,Mirdamad,7597000000.0,253233.33

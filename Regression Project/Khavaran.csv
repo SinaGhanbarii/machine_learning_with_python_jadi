@@ -1,0 +1,4 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+50,1,False,True,False,Khavaran,710000000.0,23666.67
+44,1,True,True,True,Khavaran,649000000.0,21633.33
+56,1,False,True,False,Khavaran,668000000.0,22266.67

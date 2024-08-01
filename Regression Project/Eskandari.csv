@@ -1,0 +1,5 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+64,1,False,True,False,Eskandari,1050000000.0,35000.0
+74,2,True,True,True,Eskandari,2960000000.0,98666.67
+32,1,False,True,True,Eskandari,940000000.0,31333.33
+48,1,False,False,True,Eskandari,1280000000.0,42666.67

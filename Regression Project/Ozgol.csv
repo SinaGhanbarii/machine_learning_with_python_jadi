@@ -1,0 +1,11 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+90,2,True,True,True,Ozgol,5000000000.0,166666.67
+188,3,True,True,True,Ozgol,17672000000.0,589066.67
+140,3,True,True,True,Ozgol,6300000000.0,210000.0
+200,3,True,True,True,Ozgol,18000000000.0,600000.0
+72,1,True,True,True,Ozgol,4500000000.0,150000.0
+125,2,True,True,True,Ozgol,9300000000.0,310000.0
+50,1,True,True,True,Ozgol,3000000000.0,100000.0
+83,2,True,True,True,Ozgol,55000000.0,1833.33
+110,3,True,True,True,Ozgol,6550000000.0,218333.33
+110,3,True,True,True,Ozgol,6550000000.0,218333.33

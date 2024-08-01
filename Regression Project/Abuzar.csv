@@ -1,0 +1,4 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+50,1,False,True,False,Abuzar,850000000.0,28333.33
+49,1,False,False,False,Abuzar,1020000000.0,34000.0
+85,2,True,False,True,Abuzar,2715000000.0,90500.0

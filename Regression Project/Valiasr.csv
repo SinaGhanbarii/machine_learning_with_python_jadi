@@ -1,0 +1,8 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+81,2,True,True,True,Valiasr,1863000000.0,62100.0
+100,2,True,True,True,Valiasr,2300000000.0,76666.67
+88,2,True,True,True,Valiasr,2024000000.0,67466.67
+174,3,True,True,True,Valiasr,10000000000.0,333333.33
+57,1,True,True,False,Valiasr,750000000.0,25000.0
+83,2,False,True,True,Valiasr,1700000000.0,56666.67
+81,2,True,True,False,Valiasr,1800000000.0,60000.0

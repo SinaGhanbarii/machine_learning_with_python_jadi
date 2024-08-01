@@ -1,0 +1,11 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+190,3,True,True,True,Kamranieh,24300000000.0,810000.0
+125,2,True,True,True,Kamranieh,8700000000.0,290000.0
+192,3,True,True,True,Kamranieh,33490000000.0,1116333.33
+160,3,True,True,True,Kamranieh,13120000000.0,437333.33
+85,1,True,True,True,Kamranieh,7100000000.0,236666.67
+86,2,True,True,True,Kamranieh,5500000000.0,183333.33
+90,1,True,True,True,Kamranieh,10000000000.0,333333.33
+140,3,True,True,True,Kamranieh,8100000000.0,270000.0
+175,3,True,True,True,Kamranieh,17000000000.0,566666.67
+180,3,True,True,True,Kamranieh,14000000000.0,466666.67

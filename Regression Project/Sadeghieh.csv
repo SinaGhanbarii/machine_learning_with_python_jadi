@@ -1,0 +1,7 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+150,3,True,True,True,Sadeghieh,6000000000.0,200000.0
+150,3,True,True,True,Sadeghieh,5400000000.0,180000.0
+200,3,True,True,True,Sadeghieh,7000000000.0,233333.33
+63,1,True,True,True,Sadeghieh,1620000000.0,54000.0
+136,3,True,True,True,Sadeghieh,5150000000.0,171666.67
+90,2,True,True,True,Sadeghieh,3300000000.0,110000.0

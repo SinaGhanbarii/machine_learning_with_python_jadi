@@ -1,0 +1,6 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+110,2,True,True,True,Tajrish,6600000000.0,220000.0
+115,2,True,True,True,Tajrish,8200000000.0,273333.33
+100,2,True,True,True,Tajrish,5700000000.0,190000.0
+100,2,True,True,True,Tajrish,5700000000.0,190000.0
+150,3,True,True,True,Tajrish,12750000000.0,425000.0

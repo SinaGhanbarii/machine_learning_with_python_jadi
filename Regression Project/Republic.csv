@@ -1,0 +1,5 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+83,2,True,True,True,Republic,1909000000.0,63633.33
+95,2,True,True,True,Republic,1450000000.0,48333.33
+56,1,False,False,False,Republic,1900000000.0,63333.33
+65,1,False,True,False,Republic,1400000000.0,46666.67

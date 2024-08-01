@@ -1,0 +1,4 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+120,3,True,True,True,Fatemi,4800000000.0,160000.0
+94,2,False,True,False,Fatemi,3100000000.0,103333.33
+105,2,True,True,False,Fatemi,4300000000.0,143333.33

@@ -1,0 +1,9 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+48,1,False,True,False,Parastar,980000000.0,32666.67
+57,1,False,True,True,Parastar,1270000000.0,42333.33
+75,2,True,False,True,Parastar,2300000000.0,76666.67
+102,2,True,True,False,Parastar,2030000000.0,67666.67
+44,1,False,True,False,Parastar,1030000000.0,34333.33
+80,2,True,True,True,Parastar,3360000000.0,112000.0
+55,2,False,False,False,Parastar,1280000000.0,42666.67
+87,2,True,False,True,Parastar,2500000000.0,83333.33

@@ -1,0 +1,6 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+96,2,True,True,True,Azadshahr,3750000000.0,125000.0
+145,2,True,True,True,Azadshahr,4500000000.0,150000.0
+123,3,True,True,False,Azadshahr,3450000000.0,115000.0
+85,2,False,False,False,Azadshahr,3100000000.0,103333.33
+160,3,True,True,False,Azadshahr,4500000000.0,150000.0

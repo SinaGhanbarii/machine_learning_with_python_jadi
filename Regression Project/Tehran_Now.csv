@@ -1,0 +1,5 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+91,2,True,True,True,Tehran Now,3000000000.0,100000.0
+70,2,False,False,False,Tehran Now,1700000000.0,56666.67
+104,2,True,True,False,Tehran Now,2200000000.0,73333.33
+60,1,False,True,False,Tehran Now,1500000000.0,50000.0

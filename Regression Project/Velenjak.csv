@@ -1,0 +1,17 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+160,3,True,True,True,Velenjak,14945000000.0,498166.67
+105,2,True,True,True,Velenjak,9500000000.0,316666.67
+160,3,True,True,True,Velenjak,10700000000.0,356666.67
+195,3,True,True,True,Velenjak,19500000000.0,650000.0
+115,3,True,True,True,Velenjak,12650000000.0,421666.67
+170,3,False,False,False,Velenjak,15700000000.0,523333.33
+177,3,True,True,True,Velenjak,21700000000.0,723333.33
+144,3,True,True,True,Velenjak,12000000000.0,400000.0
+181,3,True,True,True,Velenjak,13600000000.0,453333.33
+160,3,True,True,True,Velenjak,9600000000.0,320000.0
+179,3,True,True,True,Velenjak,8055000000.0,268500.0
+107,2,True,True,True,Velenjak,13200000000.0,440000.0
+120,2,True,True,True,Velenjak,9000000000.0,300000.0
+130,2,True,True,True,Velenjak,18200000000.0,606666.67
+186,3,True,True,True,Velenjak,15000000000.0,500000.0
+123,3,True,True,True,Velenjak,12500000000.0,416666.67

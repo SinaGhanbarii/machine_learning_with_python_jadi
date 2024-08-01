@@ -1,0 +1,12 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+86,2,True,True,True,Komeil,1978000000.0,65933.33
+55,1,True,True,False,Komeil,1090000000.0,36333.33
+51,2,False,True,True,Komeil,1050000000.0,35000.0
+70,2,False,True,True,Komeil,1250000000.0,41666.67
+48,1,False,True,False,Komeil,820000000.0,27333.33
+73,1,False,True,True,Komeil,1460000000.0,48666.67
+55,1,True,True,True,Komeil,1100000000.0,36666.67
+46,1,False,False,False,Komeil,700000000.0,23333.33
+40,1,False,True,True,Komeil,810000000.0,27000.0
+50,2,False,True,False,Komeil,730000000.0,24333.33
+62,1,True,True,True,Komeil,1670000000.0,55666.67
