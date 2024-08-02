@@ -1,7 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-450,2,True,True,False,Absard,4200000000.0,140000.0
-500,2,True,True,False,Absard,3900000000.0,130000.0
-650,2,True,True,False,Absard,5200000000.0,173333.33
-550,3,True,True,False,Absard,4500000000.0,150000.0
-450,2,False,False,False,Absard,4500000000.0,150000.0
-500,2,True,True,False,Absard,3100000000.0,103333.33

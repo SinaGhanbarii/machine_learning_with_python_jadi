@@ -1,7 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-80,2,True,True,True,Hor Square,1874500000.0,62483.33
-85,2,True,True,True,Hor Square,1957300000.0,65243.33
-70,2,True,True,True,Hor Square,400000000.0,13333.33
-100,2,True,True,True,Hor Square,2283900000.0,76130.0
-90,2,True,True,True,Hor Square,2071150000.0,69038.33
-51,1,True,True,False,Hor Square,858500000.0,28616.67

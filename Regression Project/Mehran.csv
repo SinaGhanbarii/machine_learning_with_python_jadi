@@ -1,9 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-92,2,True,True,False,Mehran,2500000000.0,83333.33
-114,2,True,True,True,Mehran,6840000000.0,228000.0
-114,2,True,True,True,Mehran,6840000000.0,228000.0
-104,2,True,True,True,Mehran,4200000000.0,140000.0
-134,2,True,True,True,Mehran,940000000.0,31333.33
-140,3,True,True,True,Mehran,8400000000.0,280000.0
-118,2,True,True,True,Mehran,7080000000.0,236000.0
-74,2,True,True,True,Mehran,4070000000.0,135666.67

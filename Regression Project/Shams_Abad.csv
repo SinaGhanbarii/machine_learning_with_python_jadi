@@ -1,9 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-82,2,True,False,True,Shams Abad,3280000000.0,109333.33
-137,3,True,True,True,Shams Abad,4660000000.0,155333.33
-108,2,True,True,True,Shams Abad,4550000000.0,151666.67
-108,2,True,True,True,Shams Abad,4130000000.0,137666.67
-43,1,True,True,True,Shams Abad,1800000000.0,60000.0
-92,2,True,True,True,Shams Abad,3250000000.0,108333.33
-88,2,False,True,True,Shams Abad,3350000000.0,111666.67
-67,1,True,True,True,Shams Abad,2600000000.0,86666.67

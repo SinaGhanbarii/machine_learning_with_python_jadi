@@ -1,9 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-125,2,True,True,True,Dezashib,11250000000.0,375000.0
-145,3,True,True,True,Dezashib,12300000000.0,410000.0
-197,3,True,True,True,Dezashib,18715000000.0,623833.33
-125,2,True,True,True,Dezashib,11250000000.0,375000.0
-145,3,True,True,True,Dezashib,12325000000.0,410833.33
-49,1,True,False,True,Dezashib,3150000000.0,105000.0
-125,2,True,True,True,Dezashib,11250000000.0,375000.0
-150,3,True,True,True,Dezashib,12000000000.0,400000.0

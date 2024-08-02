@@ -1,5 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-85,2,True,True,True,Northern Suhrawardi,4500000000.0,150000.0
-130,3,True,True,True,Northern Suhrawardi,7800000000.0,260000.0
-114,2,False,False,False,Northern Suhrawardi,6500000000.0,216666.67
-103,2,False,True,False,Northern Suhrawardi,3900000000.0,130000.0

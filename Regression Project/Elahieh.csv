@@ -1,9 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-147,3,True,True,True,Elahieh,11500000000.0,383333.33
-41,1,False,False,False,Elahieh,815000000.0,27166.67
-171,3,True,True,True,Elahieh,12825000000.0,427500.0
-145,3,True,True,True,Elahieh,10150000000.0,338333.33
-175,3,True,True,True,Elahieh,17500000000.0,583333.33
-72,1,True,True,True,Elahieh,8250000000.0,275000.0
-171,2,False,True,False,Elahieh,11500000000.0,383333.33
-150,3,True,True,False,Elahieh,11760000000.0,392000.0

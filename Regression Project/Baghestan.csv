@@ -1,8 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-79,2,False,False,False,Baghestan,750000000.0,25000.0
-85,2,True,True,False,Baghestan,765000000.0,25500.0
-75,2,False,False,False,Baghestan,600000000.0,20000.0
-70,1,False,False,False,Baghestan,560000000.0,18666.67
-62,1,False,True,True,Baghestan,620000000.0,20666.67
-53,1,False,True,False,Baghestan,450000000.0,15000.0
-50,1,False,True,False,Baghestan,410000000.0,13666.67

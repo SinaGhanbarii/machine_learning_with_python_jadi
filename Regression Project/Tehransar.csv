@@ -1,9 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-100,2,False,True,False,Tehransar,2000000000.0,66666.67
-100,2,False,True,False,Tehransar,2000000000.0,66666.67
-100,2,False,True,False,Tehransar,2000000000.0,66666.67
-125,3,True,True,True,Tehransar,3750000000.0,125000.0
-50,1,True,True,False,Tehransar,1250000000.0,41666.67
-62,1,True,False,True,Tehransar,1530000000.0,51000.0
-120,2,True,True,True,Tehransar,3480000000.0,116000.0
-37,1,True,True,True,Tehransar,1180000000.0,39333.33

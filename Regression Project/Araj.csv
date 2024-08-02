@@ -1,5 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-65,1,True,True,False,Araj,3100000000.0,103333.33
-200,3,True,True,True,Araj,13700000000.0,456666.67
-200,3,True,True,True,Araj,13300000000.0,443333.33
-150,2,True,True,True,Araj,10500000000.0,350000.0

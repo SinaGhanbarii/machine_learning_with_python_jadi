@@ -1,4 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-57,2,False,False,True,Waterfall,1265000000.0,42166.67
-175,3,True,True,True,Waterfall,8600000000.0,286666.67
-68,2,False,True,True,Waterfall,1000000000.0,33333.33

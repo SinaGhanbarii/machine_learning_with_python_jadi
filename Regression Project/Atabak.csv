@@ -1,4 +1,0 @@
-Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
-93,2,True,True,True,Atabak,1300000000.0,43333.33
-56,3,False,True,False,Atabak,900000000.0,30000.0
-83,3,False,False,False,Atabak,1286500000.0,42883.33
